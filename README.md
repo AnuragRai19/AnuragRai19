@@ -6,6 +6,8 @@
 <a href="https://twitter.com/anuragrai2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragrai2003" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
