@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h1>Hi, I am Anurag Rai</h1>
 I am an aspiring AI/ software developer. I like tinkering with AI and its various tools and software. I also like customizing linux enviornments.
 
 
